@@ -1,0 +1,1 @@
+A Python implementation of a password strength assessment tool. This tool evaluates the strength of a password based on criteria such as length, presence of uppercase and lowercase letters, numbers, and special characters. It also provides feedback on how to improve the password.
